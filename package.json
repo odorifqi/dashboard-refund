@@ -41,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/odorifqi/react-webpack-template.git"
+    "url": "git+https://github.com/odorifqi/dashboard-refund.git"
   },
   "bugs": {
-    "url": "https://github.com/odorifqi/react-webpack-template/issues"
+    "url": "https://github.com/odorifqi/dashboard-refund.git/issues"
   },
   "homepage": "https://github.com/odorifqi/react-webpack-template#readme"
 }
